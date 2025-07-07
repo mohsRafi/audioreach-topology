@@ -30,6 +30,7 @@ set(TPLGS
 	"QCM6490-IDP\;qcm6490-idp-snd-card\;qcom/qcm6490/qcm6490-idp\;"
 	"QCS6490-Radxa-Dragon-Q6A\;QCS6490-Radxa-Dragon-Q6A\;qcom/qcs6490/radxa/dragon-q6a\;"
   "QCS6490-RB3Gen2\;qcs6490-rb3gen2-snd-card\;qcom/qcs6490/qcs6490-rb3gen2\;"
+	"QCS9075-IQ-EVK\;QCS9075-IQ-EVK\;qcom/qcs9075/qcs9075-iq-evk\;"
   )
 
 add_custom_target(topologies ALL)
