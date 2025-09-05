@@ -3,8 +3,8 @@
 cmake_minimum_required(VERSION 3.10)
 # Array of "input-file-name;output-file-name;"
 set(TPLGS
-	"LEMANS-EVK\;LEMANS-EVK\;qcom/qcs9100/lemans-evk\;"
-	"MONACO-EVK\;MONACO-EVK\;qcom/qcs8275/monaco-evk\;"
+	"LEMANS-EVK\;LEMANS-EVK\;qcom/qcs9100\;"
+	"MONACO-EVK\;MONACO-EVK\;qcom/qcs8275\;"
 	"Qualcomm-RB5-WSA8815-Speakers-DMIC0\;Qualcomm-RB5-WSA8815-Speakers-DMIC0\;qcom/sm8250\;"
 	"Qualcomm-RB5-WSA8815-Speakers-DMIC0-compress\;Qualcomm-RB5-WSA8815-Speakers-DMIC0-compress\;qcom/sm8250\;"
 	"SM8250-MTP-WCD9380-WSA8810-VA-DMIC\;SM8250-MTP-WCD9380-WSA8810-VA-DMIC\;qcom/sm8250\;"
@@ -31,9 +31,9 @@ set(TPLGS
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-LENOVO-ThinkBook-16\;qcom/x1e80100/LENOVO/21NH\;"
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-Romulus\;qcom/x1e80100\;"
 	"X1E80100-LENOVO-Yoga-Slim7x\;X1E80100-LENOVO-Yoga-Slim7x\;qcom/x1e80100/LENOVO/83ED\;"
-	"QCM6490-IDP\;QCM6490-IDP\;qcom/qcm6490/qcm6490-idp\;"
+	"QCM6490-IDP\;QCM6490-IDP\;qcom/qcm6490\;"
 	"QCS6490-Radxa-Dragon-Q6A\;QCS6490-Radxa-Dragon-Q6A\;qcom/qcs6490/radxa/dragon-q6a\;"
-	"QCS6490-RB3Gen2\;QCS6490-RB3Gen2\;qcom/qcs6490/qcs6490-rb3gen2\;"
+	"QCS6490-RB3Gen2\;QCS6490-RB3Gen2\;qcom/qcs6490\;"
   )
 
 add_custom_target(topologies ALL)
