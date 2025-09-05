@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.10)
 # Array of "input-file-name;output-file-name;"
 set(TPLGS
 	"LEMANS-EVK\;LEMANS-EVK\;qcom/qcs9100\;"
-	"MONACO-EVK\;MONACO-EVK\;qcom/qcs8275\;"
+	"MONACO-EVK\;MONACO-EVK\;qcom/qcs8300\;"
 	"Qualcomm-RB5-WSA8815-Speakers-DMIC0\;Qualcomm-RB5-WSA8815-Speakers-DMIC0\;qcom/sm8250\;"
 	"Qualcomm-RB5-WSA8815-Speakers-DMIC0-compress\;Qualcomm-RB5-WSA8815-Speakers-DMIC0-compress\;qcom/sm8250\;"
 	"SM8250-MTP-WCD9380-WSA8810-VA-DMIC\;SM8250-MTP-WCD9380-WSA8810-VA-DMIC\;qcom/sm8250\;"
