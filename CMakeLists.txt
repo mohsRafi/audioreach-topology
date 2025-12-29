@@ -43,13 +43,7 @@ set(SKIPSYNC
 	"qcom/sm8250"
 	# Not yet in linux-firmware
 	"qcom/sm8450"
-	"qcom/x1e80100/ASUSTeK/vivobook-s15"
-	"qcom/x1e80100/ASUSTeK/zenbook-a14"
 	"qcom/x1e80100/LENOVO/21NH"
-	"qcom/x1e80100/dell/inspiron-14-plus-7441"
-	"qcom/x1e80100/dell/latitude-7455"
-	"qcom/x1e80100/dell/xps13-9345"
-	"qcom/x1e80100/hp/omnibook-x14"
 )
 
 add_custom_target(topologies ALL)
