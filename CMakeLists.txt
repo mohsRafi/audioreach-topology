@@ -34,6 +34,7 @@ set(TPLGS
 	"QCM6490-IDP\;QCM6490-IDP\;qcom/qcm6490\;"
 	"QCS6490-Radxa-Dragon-Q6A\;QCS6490-Radxa-Dragon-Q6A\;qcom/qcs6490/radxa/dragon-q6a\;"
 	"QCS6490-RB3Gen2\;QCS6490-RB3Gen2\;qcom/qcs6490\;"
+	"QCS6490-Thundercomm-RubikPi3\;QCS6490-Thundercomm-RubikPi3\;qcom/qcs6490/Thundercomm/RubikPi3\;"
   )
 
 # The list of directories to skip when synchronizing to linux-firmware
