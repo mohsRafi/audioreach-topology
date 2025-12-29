@@ -42,7 +42,6 @@ set(SKIPSYNC
 	"qcom/sc7180"
 	"qcom/sm8250"
 	# Not yet in linux-firmware
-	"qcom/sm8450"
 	"qcom/x1e80100/LENOVO/21NH"
 )
 
