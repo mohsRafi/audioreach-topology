@@ -25,6 +25,7 @@ set(TPLGS
 	"X1E80100-Dell-Latitude-7455\;X1E80100-Dell-Latitude-7455\;qcom/x1e80100/dell/latitude-7455\;"
 	"X1E80100-Dell-XPS-13-9345\;X1E80100-Dell-XPS-13-9345\;qcom/x1e80100/dell/xps13-9345\;"
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-ASUS-Vivobook-S15\;qcom/x1e80100/ASUSTeK/vivobook-s15\;"
+	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-ASUS-Vivobook-16\;qcom/x1e80100/ASUSTeK/vivobook-16\;"
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-ASUS-Zenbook-A14\;qcom/x1e80100/ASUSTeK/zenbook-a14\;"
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-HP-OMNIBOOK-X14\;qcom/x1e80100/hp/omnibook-x14\;"
 	"X1E80100-LENOVO-Thinkpad-T14s\;X1E80100-LENOVO-Thinkpad-T14s\;qcom/x1e80100/LENOVO/21N1\;"
@@ -44,6 +45,7 @@ set(SKIPSYNC
 	# Not yet in linux-firmware
 	"qcom/sm8450"
 	"qcom/x1e80100/ASUSTeK/vivobook-s15"
+	"qcom/x1e80100/ASUSTeK/vivobook-16"
 	"qcom/x1e80100/ASUSTeK/zenbook-a14"
 	"qcom/x1e80100/LENOVO/21NH"
 	"qcom/x1e80100/dell/inspiron-14-plus-7441"
